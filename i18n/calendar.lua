@@ -170,7 +170,7 @@ end
 -- options are for styling
 -- @arg days the day object
 -- 
-printCalendarWeekLabel = function (days, mm, year)
+printCalendarWeekLabel = function (days, mm, year, opts)
   local options= m.options or {}
   local days_in_row = options.days_in_row
   local j =1
@@ -255,7 +255,7 @@ function mainPerpetualCalendar (mm, yy)
   end  
 
 
-  printCalendarWeekLabel(days, currentmonth, currentyear)
+  printCalendarWeekLabel(days, currentmonth, currentyear, {a="zz"})
 
   count = 0
   for k,v in pairs(vector) do 
