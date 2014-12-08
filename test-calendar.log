@@ -1,4 +1,4 @@
-This is LuaTeX, Version beta-0.76.0-2013062821 (rev 4627)  (format=lualatex 2014.11.11)  8 DEC 2014 22:36
+This is LuaTeX, Version beta-0.76.0-2013062821 (rev 4627)  (format=lualatex 2014.11.11)  8 DEC 2014 23:02
 **test-calendar.tex
 (C:/Users/Georgio/Documents/github/calendar/test-calendar.tex
 LaTeX2e <2011/06/27>
@@ -1189,13 +1189,13 @@ Here is how much of LuaTeX's memory you used:
  100000,662416 words of node,token memory allocated
  369 words of node memory still in use:
     nodes
-   avail lists: 2:1943,3:146,4:848,5:11,6:273,7:14,9:181,10:16
+   avail lists: 2:1949,3:146,4:848,5:11,6:275,7:14,9:181,10:16
  28288 multiletter control sequences out of 65536+200000
  39 fonts using 5188367 bytes
  69i,8n,77p,844b,376s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Windows/Fonts/arial.ttf><C:/Windows/Fonts/arialbd.ttf><c:/program files/mikt
 ex 2.9/fonts/opentype/public/lm/lmroman10-regular.otf>
-Output written on test-calendar.pdf (13 pages, 377620 bytes).
+Output written on test-calendar.pdf (13 pages, 377561 bytes).
 
 PDF statistics: 73 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
