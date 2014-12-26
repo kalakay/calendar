@@ -14,7 +14,7 @@ Gregorian days
 -- Licence: cc0
 -- 
 
-local m = m or {}
+local m = m or {indonesian}
 m.language = {}
 m.language.default = 'English'
 
