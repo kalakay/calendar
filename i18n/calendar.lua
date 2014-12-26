@@ -16,14 +16,14 @@ Gregorian days
 
 local m = m or {}
 m.language = {}
-m.language.default = 'indonesian'
+m.language.default = 'English'
 
-m.days = {'Min', 'Sen', 'Sel', 
-  'Rab', 'Kam', 'Jum', 'Sab'}
-m.months = {'Januari', 'Februari', 'Maret', 
-  'April', 'Mei','Juni',
-  'Juli', 'Agustus', 'September', 
-  'Oktober', 'November', 'Desember'}
+m.days = {'Sun', 'Mon', 'Tue', 
+  'Wed', 'Thu', 'Fri', 'Sat'}
+m.months = {'January', 'February', 'March', 
+  'April', 'May','June',
+  'July', 'August', 'September', 
+  'October', 'November', 'December'}
 
 m.months.images = {
   "satu.jpg", "dua.jpg", "tiga.jpg", 
