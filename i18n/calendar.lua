@@ -16,7 +16,7 @@ Gregorian days
 
 local m = m or {}
 m.language = {}
-m.language.default = 'Indonesian'
+m.language.default = 'English'
 
 m.days = {'Ming', 'Sen', 'Sel', 
   'Rab', 'Kam', 'Jum', 'Sab'}
