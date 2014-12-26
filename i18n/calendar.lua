@@ -14,11 +14,11 @@ Gregorian days
 -- Licence: cc0
 -- 
 
-local m = m or {indonesian}
+local m = m or {}
 m.language = {}
-m.language.default = 'English'
+m.language.default = 'indonesian'
 
-m.days = {'Ming', 'Sen', 'Sel', 
+m.days = {'Min', 'Sen', 'Sel', 
   'Rab', 'Kam', 'Jum', 'Sab'}
 m.months = {'Januari', 'Februari', 'Maret', 
   'April', 'Mei','Juni',
