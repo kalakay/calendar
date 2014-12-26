@@ -26,10 +26,10 @@ m.months = {'January', 'February', 'March',
   'October', 'November', 'December'}
 
 m.months.images = {
-  "sepp-01.jpg", "sepp-03.jpg", "falero.jpg", 
-  "zorn.jpg", "capri.jpg", "sepp-03.jpg",
-  "sepp-01.jpg", "sepp-03.jpg", "sepp-01.jpg", 
-  "sepp-03.jpg", "sepp-01.jpg", "sepp-03.jpg",
+  "satu.jpg", "dua.jpg", "tiga.jpg", 
+  "empat.jpg", "lima.jpg", "enam.jpg",
+  "tujuh.jpg", "delapan.jpg", "sembilan.jpg", 
+  "sepuluh.jpg", "sebelas.jpg", "duabelas.jpg",
   }
 
 m.options = {
